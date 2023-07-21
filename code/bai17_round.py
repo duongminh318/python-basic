@@ -1,0 +1,5 @@
+a = float(input("Enter a float number a: "))
+b = float(input("Enter b float number b: "))
+print("so a sau khi lam tron la: ", round(a, 2))
+print("so a sau khi lam tron la: ", round(b, 3))
+print("so a sau khi lam tron la: ", round(1.555365, 0))
