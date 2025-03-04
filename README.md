@@ -1,7 +1,7 @@
 # [PYTHON] python basic exercises
 
 ## Introduction
-
+- hello các thím
 - Here is my PYTHON source code for eexercise . With my code: 
  Some exercises to help you better understand the basic python programming language such as:
 
